@@ -1,5 +1,5 @@
 # NYC_airport
 Airline analysis for NYC airports
 
-This is the airline analysis of NYC airports project presented in Data Science for All: Woman's Summit by Correlation-One. 
+This is the airline analysis of 2017 NYC airline flight delay patterns presented in Data Science for All: Woman's Summit by Correlation-One .<br> together with other three members (Sinem, Mengya, Sonal)
 [Jupyter Notebook](https://htmlpreview.github.io/?https://github.com/jenniening/NYC_airport/blob/master/NYC_airport.html)
